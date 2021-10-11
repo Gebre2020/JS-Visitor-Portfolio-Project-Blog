@@ -106,5 +106,14 @@ at index.js file.
 
 
 
+# Code & Demo
 
+You can check out this project on Github Backend and Frontend 
+`https://github.com/Gebre2020/JS-Visitor-Project-Backend`   and
+`https://github.com/Gebre2020/JS-Visitor-Project-Frontend`
+
+see the demo at `https://www.youtube.com/watch?v=RcMxTCQd3j8` hosted
+
+## License & copyright
+Licensed under the [MIT License](LICENCE).
 
